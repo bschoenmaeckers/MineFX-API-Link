@@ -1,7 +1,0 @@
-c:\users\bas\documents\visual studio 2013\Projects\MineFX\MineFX\bin\Debug\MineFX.exe.config
-c:\users\bas\documents\visual studio 2013\Projects\MineFX\MineFX\bin\Debug\MineFX.exe
-c:\users\bas\documents\visual studio 2013\Projects\MineFX\MineFX\bin\Debug\MineFX.pdb
-c:\users\bas\documents\visual studio 2013\Projects\MineFX\MineFX\obj\Debug\MineFX.exe
-c:\users\bas\documents\visual studio 2013\Projects\MineFX\MineFX\obj\Debug\MineFX.pdb
-C:\Users\Bas\Documents\Visual Studio 2013\Projects\MineFX\MineFX\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Bas\Documents\Visual Studio 2013\Projects\MineFX\MineFX\bin\Debug\Newtonsoft.Json.xml
